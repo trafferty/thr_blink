@@ -1,2 +1,2 @@
-# GarageMonitor_v2
-Port of garage monitoring IoT from rpi to ESP8266 using platformio
+# PlatformIO / ESP Testing
+Simple project used to test certain features of ESP MCUs under PlatformIO
